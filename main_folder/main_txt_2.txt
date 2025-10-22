@@ -1,0 +1,1 @@
+ noi dung cua main_txt_2.txt
